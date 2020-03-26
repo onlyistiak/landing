@@ -1,0 +1,66 @@
+body{
+	background-color: black;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+
+img.logo {
+    max-width: 100%;
+    width: 42%;
+    display: block;
+    padding-top: 8%;
+    margin: 0 auto;
+}
+.logo-head{
+	padding-top: 21%;
+    color: #908a87;
+    font-size: 23px;
+    text-align: center;
+}
+
+.logo-para {
+    color: #908a87;
+    font-size: 13px;
+    text-align: center;
+}
+.banner {
+    box-shadow: inset 0px 0px 10px 22px black;
+    background: url(../img/banner2.jpg);
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.bnr {
+    background: rgba(0, 0, 0, 0.5)!important;
+    height: 400px;
+}
+h2.contact {
+    color: silver;
+    text-decoration: underline;
+    font-size: 18px;
+    margin-top: -42px;
+}
+
+
+
+.foot-point p {
+    font-size: 10px;
+    color: silver;
+    margin-bottom: 0px;
+}
+
+img.flag {
+    max-width: 100%;
+    width: 11%;
+}
+
+.footttt{
+	padding-bottom: .5%;
+}
+
+p.foooot {
+    font-size: 8px!important;
+    padding-top: 10%;
+}
